@@ -5,7 +5,6 @@
 #Basic Queries
 
 Simple SELECT query: Retrieve all records from a table.
-
 SELECT query with LIMIT: Restrict the number of rows returned in the result.
 SELECT query with WHERE: Filter the rows based on a specified condition.
 SELECT query with ORDER BY: Sort the result based on a specified column.
