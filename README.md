@@ -3,7 +3,9 @@
 #This README provides a summary of various SQL queries that can be executed on the classification_database and df1 tables, following the sequence provided. The classification_database table contains columns id, score, and symptom, while the df1 table contains columns id and user_type. These queries demonstrate how to perform data retrieval, filtering, aggregation, and various other operations on the table data.#
 
 #Basic Queries
+
 Simple SELECT query: Retrieve all records from a table.
+
 SELECT query with LIMIT: Restrict the number of rows returned in the result.
 SELECT query with WHERE: Filter the rows based on a specified condition.
 SELECT query with ORDER BY: Sort the result based on a specified column.
